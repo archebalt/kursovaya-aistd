@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+D:\папка с++\kursovaya_aistd\kursovaya_aistd\Functions.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\папка с++\kursovaya_aistd\kursovaya_aistd\Functions.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\папка с++\kursovaya_aistd\kursovaya_aistd\Functions.cpp(133,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\папка с++\kursovaya_aistd\kursovaya_aistd\Stack.cpp(29,7): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  UnitTest1.vcxproj -> D:\папка с++\kursovaya_aistd\Debug\UnitTest1.dll
